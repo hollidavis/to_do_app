@@ -1,1 +1,1 @@
-A simple console based to-do list application
+A simple command-line to-do list application made using Dart
